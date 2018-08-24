@@ -1,3 +1,3 @@
 # codejockect-course
-# Code clone into git
+# code colen from git into EC2
 
