@@ -1,3 +1,3 @@
 # codejockect-course
-# code colen from git into EC2
+# code colne from git into My EC2 Instance 
 
